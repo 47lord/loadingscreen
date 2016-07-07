@@ -84,9 +84,6 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
 ];
 
 /*Random music order?*/
@@ -102,8 +99,7 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Enjoy the server",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Thanks for joining us!"
 ];
 
 /*Random message order?*/
